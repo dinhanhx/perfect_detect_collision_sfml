@@ -5,4 +5,4 @@ Use WASD to move RED object.
 
 Use IJKL to move WHITE object.
 
-When they collide, "isCollided: FALSE" will be changed into "isCollided: FALSE"
+When they collide, "isCollided: FALSE" will be changed into "isCollided: TRUE"
