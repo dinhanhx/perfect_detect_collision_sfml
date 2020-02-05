@@ -1,5 +1,5 @@
 ## Perfect detect collision for SFML
-A function to detect collision between ANY sprites with a test code.
+A function to detect collision between ANY sprites having ANY shapes with a test code.
 
 ## What is SFML?
 https://www.sfml-dev.org/index.php
